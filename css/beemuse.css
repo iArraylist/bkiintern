@@ -61,6 +61,7 @@
  * Designed and built with all the buzz in the world @itmustbe
 ****************************************************************************/
 .stitch {
+  margin-top: 15px;
   position: relative;
   z-index: 0;
   padding: 19px;
